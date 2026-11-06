@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.divtool {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  font-size: 23px;
+}
+
+.divbox {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+
+.divbox2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 140px;
+}
+
+.divbox3 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 140px;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.divbox4 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 140px;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.divbox5 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 140px;
+}
+
+.divbox6 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 140px;
+  background-color: #69B99D;
+  color: white;
+}
+
+.divP {
+  width: 22%;
+  padding: 20px;
+}
+
+.divP2 {
+  width: 40%;
+}
+
+h5 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.divP p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.divP2 p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+.divP button {
+  width: 230px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 15px;
+  border: none;
+  background-color: #69B99D;
+  color: white;
+}
+
+.divServ {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+
+.divServ2 {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+h6 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.divLid {
+  width: 18%;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 8px 4px grey;
+  border-radius: 10px;
+}
+
+.divLid p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+.divD {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+
+.divH {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 30px;
+
+}
+
+.divB {
+  width: 30%;
+  text-align: start;
+}
+
+.divB p {
+  text-align: start;
+  margin-bottom: 20px;
+}
+
+.divS {
+  width: 22%;
+}
+
+.divS2 {
+  width: 22%;
+}
+
+.divS button {
+  width: 220px;
+  font-size: 18px;
+  padding: 4px;
+  border: none;
+  margin-top: 20px;
+  border-radius: 4px;
+  color: white;
+  background-color: #69B99D;
+}
+
+.divS2 p {
+  margin-top: 20px;
+  color: #69B99D;
+}
+
+.divLast {
+  width: 30%;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 28px;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h2 span {
+  color: white;
+}
+
+.divLast p {
+  margin-top: 10px;
+}
+
+.divLast2 img {
+  margin-top: 70px;
+}
